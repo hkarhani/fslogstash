@@ -1,4 +1,4 @@
 # fslogstash
-ForeScout Normalized Logging via LogStash 
+Normalized Logging via LogStash 
 
 ** Under Development **
